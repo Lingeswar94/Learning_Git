@@ -10,5 +10,8 @@ System.out.println("Video");
 
 System.out.println("Audio");
 
+System.out.println("Graphic card");
+
+
 }
 }
